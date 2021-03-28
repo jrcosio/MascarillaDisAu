@@ -1,8 +1,8 @@
 # MascarillaDisAu
-# Por José Ramón Blanco Gutiérrez
+Por José Ramón Blanco Gutiérrez
 
-# Adaptar la mascarilla sanitaria para personas con discapacidad auditiva.
+#Adaptar la mascarilla sanitaria para personas con discapacidad auditiva.
 
-# Estos STL son para descargar libremente y se puedan imprimir en filamento para adaptar a las mascarillas sanitarias.
+Estos STL son para descargar libremente y se puedan imprimir en filamento para adaptar a las mascarillas sanitarias.
 
-# Con ello conseguiremos que las mascarillas sanitarias se puedan ver los labios.
+Con ello conseguiremos que las mascarillas sanitarias se puedan ver los labios.
